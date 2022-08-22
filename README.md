@@ -21,8 +21,8 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
-username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 💫 About Me:
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
