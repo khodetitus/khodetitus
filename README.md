@@ -22,8 +22,11 @@
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=khodetitus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai-metallian&hide_border=true"/>
+  <alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai-metallian&hide_border=true"/>
 
+  
+<!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai-metallian&hide_border=true"/>   -->
+  
 # 💫 About Me:
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
 
