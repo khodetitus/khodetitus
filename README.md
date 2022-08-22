@@ -6,6 +6,7 @@
 # 💫 About Me:
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
 
+[![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masoud-zandi-213604217)
@@ -18,4 +19,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=khodetitus&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
+
