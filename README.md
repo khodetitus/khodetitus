@@ -19,11 +19,11 @@
 
 
 
-<!-- <p align="left"> -->
+<p align="left">
     <picture align="right">
         <img align="right" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761102e7002832a43a53ec222d13d7b072d6800cca97&rid=giphy.gif&ct=g">
-<!--     </picture> -->
-<!--     <ul> -->
+    </picture>
+    <ul>
         
         👨🏻‍💻 I'm MasouD
         <li><h4>📍 Live in Tehran</h4></li>
