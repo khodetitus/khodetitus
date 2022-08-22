@@ -20,7 +20,6 @@
   <a href="https://linkedin.com/in/masoud-zandi-213604217" alt="LinkedIn"><img width="32px" src="https://imgur.com/78apom3.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-# 💫 About Me
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
 
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
