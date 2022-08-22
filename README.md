@@ -17,13 +17,18 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- <img align="right" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761102e7002832a43a53ec222d13d7b072d6800cca97&rid=giphy.gif&ct=g"> -->
+<img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761102e7002832a43a53ec222d13d7b072d6800cca97&rid=giphy.gif&ct=g">
+<br/>
 👨🏻‍💻 I'm MasouD
+<br/>
 📍 Live in Tehran
+<br/>
 🔭 I've been studying to be a better FullStack developer
+<br/>
 🐍 I’m currently learning Python | Django | Linux | SQL | JavaScript
+<br/>
 Fun fact,There is only one Titus in the world and that is me
- 
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
 
