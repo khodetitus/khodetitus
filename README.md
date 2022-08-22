@@ -15,14 +15,32 @@
   <a href="https://linkedin.com/in/masoud-zandi-213604217" alt="LinkedIn"><img width="32px" src="https://imgur.com/78apom3.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+
+
+
+
+
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
   
   
   
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔥 GitHub Stats
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<!-- ![](https://github-readme-stats.vercel.app/api?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=khodetitus&theme=monokai&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 # 💫 About Me:
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
