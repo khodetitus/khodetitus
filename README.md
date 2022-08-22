@@ -26,11 +26,11 @@
     <ul>
         
         👨🏻‍💻 I'm MasouD
-        <li><h4>📍 Live in Tehran</h4></li>
-        <li><h4">🔭 I've been studying to be a better FullStack developer</h4></li>
-        <li><h4>🐍 🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript</h4></li>
-        <li><h4>⚡ Fun fact,There is only one Titus in the world and that is me</h4></li>
-<!--     </ul>     -->
+        📍 Live in Tehran
+        🔭 I've been studying to be a better FullStack developer
+        🐍 I’m currently learning Python | Django | Linux | SQL | JavaScript
+        Fun fact,There is only one Titus in the world and that is me
+    </ul>    
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
