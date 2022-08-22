@@ -20,13 +20,13 @@
   <a href="https://linkedin.com/in/masoud-zandi-213604217" alt="LinkedIn"><img width="32px" src="https://imgur.com/78apom3.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-# 💫 About Me:
+<p align="center">
+# 💫 About Me
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
 
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <h3 align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
