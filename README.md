@@ -1,4 +1,4 @@
-
+<img src="M4Fo.gif" align="right" alt="" width="400" height="200">
 
 
 
@@ -22,7 +22,6 @@
 </p>
 
 # 💫 About Me:
-<img src="M4Fo.gif" align="right" alt="" width="400" height="200">
 🔭 I've been studying to be a better FullStack developer<br>👯 I’m looking to collaborate on<br>🤝 The languages I have the most experience with are Python and JavaScript.<br>🌱 I’m currently learning Python | Django | Linux | SQL | JavaScript<br>💬 Ask me about Python and Linux <br>⚡ Fun fact,There is only one Titus in the world and that is me
 
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
