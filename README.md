@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9624F7&background=06060600&width=435&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9624F7&background=06060600&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khodetitus&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
