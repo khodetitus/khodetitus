@@ -27,12 +27,9 @@
 <br/>
 🐍 I’m currently learning Python | Django | Linux | SQL | JavaScript
 <br/>
-Fun fact,There is only one Titus in the world and that is me
+⚡Fun fact,There is only one Titus in the world and that is me
 <br/>
-
 [![](https://visitcount.itsvg.in/api?id=khodetitus&icon=7&color=11)](https://visitcount.itsvg.in)
-
-<br/>
 <br/>
 <h3 align="center">Tech Stack</h3>
 <h3 align="center">
