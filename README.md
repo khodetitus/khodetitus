@@ -71,14 +71,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=khodetitus&theme=cotton candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khodetitus&theme=cotton candy)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
-
-
-
+## activity graph
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
@@ -88,11 +81,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophies
