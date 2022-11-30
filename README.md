@@ -71,7 +71,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
 
-## activity graph
+<!-- acivity graph -->
+
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
