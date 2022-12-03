@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/khodetitus"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/welmJFo"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/QZzcNW7V" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
