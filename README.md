@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC9lzgHhOeNOea4pZli0xV9g"><img width="32px" alt="Youtube" title="Youtube"               src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UC9lzgHhOeNOea4pZli0xV9g"><img width="32px" alt="Youtube" title="Youtube"                                             src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/khodetitus"><img width="32px" alt="Twitter" title="Twitter" 
-src="https://icons8.com/icon/RJx4roHDho72/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-tritone-tal-revivo"/></a>
+        src="https://icons8.com/icon/RJx4roHDho72/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-tritone-tal-revivo"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://icons8.com/icon/114445/linkedin-circled"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
