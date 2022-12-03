@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/khodetitus"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="Twitter" src="https://imgur.com/78apom3.png"/></a>
+  <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="![linkedin-in](https://user-images.githubusercontent.com/84510341/205459592-29d189d3-5849-46ac-bf78-04a472eaa43d.svg)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -70,6 +70,24 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodetitus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- acivity graph -->
 
