@@ -15,6 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn src="https://icons8.com/icon/QSqKhX2FC4oX/external-linkedin-logo-social-media-those-icons-flat-those-icons"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761102e7002832a43a53ec222d13d7b072d6800cca97&rid=giphy.gif&ct=g">
