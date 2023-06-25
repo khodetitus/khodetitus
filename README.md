@@ -16,7 +16,7 @@
   <a href="https://discord.gg/QZzcNW7V" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
-   <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/84510341/205577001-7ebe0d2b-7b53-4d86-8b80-f4f8ef542c28.png" color=&#8287;&#8287;&#8287;&#8287;&#8287;/>
+   <a href="https://linkedin.com/in/masoud-zandi-213604217"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/84510341/205577001-7ebe0d2b-7b53-4d86-8b80-f4f8ef542c28.png"/>
 </a>
 </p>
 <img align="center" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761102e7002832a43a53ec222d13d7b072d6800cca97&rid=giphy.gif&ct=g">
