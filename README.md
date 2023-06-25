@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/channel/UC9lzgHhOeNOea4pZli0xV9g"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/khodetitus"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://discord.gg/QZzcNW7V" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
